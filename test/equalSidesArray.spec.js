@@ -17,5 +17,4 @@ describe('equalSidesArray', () => {
     expect(equalSidesArray([20,10,30,10,10,15,35])).to.be.equal(3);
   });
 
-
 });
